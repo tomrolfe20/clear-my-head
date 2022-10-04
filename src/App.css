@@ -1,0 +1,9 @@
+.App {
+  font-family: "Noto Sans Mono", monospace;
+}
+
+:root {
+  --blue: #5cc3ee;
+  --yellow: #faec0b;
+  --black: #1f211c;
+}
